@@ -1,7 +1,7 @@
 package es2;
 
 public class cerchio extends figure{
-	
+//prova merge	
 	private double raggio;
 	
 	public cerchio(double raggio) {
@@ -9,7 +9,7 @@ public class cerchio extends figure{
 	}
 	
 	public void area() {
-		System.out.println("Area del cerchio: " + raggio*raggio*Math.PI);
+		System.out.println("Area del cerchio:  " + raggio*raggio*Math.PI);
 	}
 	
 }
