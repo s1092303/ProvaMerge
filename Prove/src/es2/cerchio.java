@@ -12,4 +12,5 @@ public class cerchio extends figure{
 		System.out.println("Area del cerchio:  " + raggio*raggio*Math.PI);
 	}
 	
+	//prova merge2
 }
