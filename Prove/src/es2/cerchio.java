@@ -7,7 +7,7 @@ public class cerchio extends figure{
 	public cerchio(double raggio) {
 		this.raggio = raggio;
 	}
-	
+//commento
 	public void area() {
 		System.out.println("Area del cerchio: 2 " + raggio*raggio*Math.PI);
 	}
