@@ -9,7 +9,7 @@ public class cerchio extends figure{
 	}
 	
 	public void area() {
-		System.out.println("Area del cerchio: " + raggio*raggio*Math.PI);
+		System.out.println("Area del cerchio: 2 " + raggio*raggio*Math.PI);
 	}
 	
 }
