@@ -2,4 +2,6 @@
 
 <p>This is a normal paragraph:</p>
 
-<pre><code> hello
+<pre><code> hello 
+
+ciao
