@@ -5,5 +5,5 @@
 <pre><code> hello 
 
 ciao
-<pre><code>
+</code></pre>
 <p> ciao
