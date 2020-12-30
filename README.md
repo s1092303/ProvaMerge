@@ -11,5 +11,10 @@ ciao
 # boh
 
 | Tipo | rotta  | chiamata  |
+| :--: | :----: | :-------: |
 | get  | /boh   | http:/    |
 | get  | /boh 2 | http://   |
+
+| Attempt | #1  | #2  |
+| :-----: | :-: | :-: |
+| Seconds | 301 | 283 |
