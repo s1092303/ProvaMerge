@@ -10,10 +10,12 @@ ciao
 
 # boh
 
-| Tipo | rotta  | chiamata  |
-| :--: | :----: | :-------: |
-| get  | /boh   | http:/    |
-| get  | /boh 2 | http://   |
+| Tipo | Rotta                         | Funzione                  |
+| :--: | :---------------------------: | :----------------------------------------------------------------------------------------------: |
+| get  | /ListaCitta                   | Stampa le statistiche delle città                                                                |
+| get  | /EstremiStatisticheVento      | Stampa le citta con media e varianza minima e massima rispetto alla ventosità                    |
+| get  | /EstremiStatisticheVisibilità | Stampa le citta con media e varianza minima e massima rispetto alla visibilità                   |
+| get  | /StatsAScelta                 | Stampa le statistiche delle città, potendo scegliere la singola città o un campionamento diverso |
 
 | Attempt | #1  | #2  |
 | :-----: | :-: | :-: |
