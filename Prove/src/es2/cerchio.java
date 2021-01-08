@@ -1,5 +1,11 @@
 package es2;
 
+/**
+ * prova
+ * @author ronch
+ *
+ */
+
 public class cerchio extends figure{
 //prova merge	
 	private double raggio;
